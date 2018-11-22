@@ -1,0 +1,7 @@
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe.config
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.pdb
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.csprojAssemblyReference.cache
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.csproj.CoreCompileInputs.cache
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.exe
+F:\Estructura de Datos\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.pdb
