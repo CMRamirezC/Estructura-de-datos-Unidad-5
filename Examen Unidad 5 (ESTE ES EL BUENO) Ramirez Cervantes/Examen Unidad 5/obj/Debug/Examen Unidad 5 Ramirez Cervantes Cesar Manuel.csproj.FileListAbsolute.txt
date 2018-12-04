@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\bin\Debug\Examen Unidad 5.exe.config
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\bin\Debug\Examen Unidad 5.exe
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\bin\Debug\Examen Unidad 5.pdb
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\obj\Debug\Examen Unidad 5 Ramirez Cervantes Cesar Manuel.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\obj\Debug\Examen Unidad 5 Ramirez Cervantes Cesar Manuel.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\obj\Debug\Examen Unidad 5.exe
+C:\Users\Cesar\source\repos\Examen Unidad 5 Ramirez Cervantes\Examen Unidad 5\obj\Debug\Examen Unidad 5.pdb
